@@ -18,6 +18,9 @@ The CNN model follows this architecture:
 
 Input → [Conv2D → ReLU] x2 → MaxPool → Dropout → [Conv2D → ReLU] x2 → MaxPool → Dropout → Flatten → Dense → Dropout → Output (Softmax)
 
+<img width="533" height="633" alt="image" src="https://github.com/user-attachments/assets/55c55e27-038c-40ba-8bdf-38303a0bdc44" />
+
+
 
 ---
 
